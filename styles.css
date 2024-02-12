@@ -1,0 +1,50 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #b4aee5; /* Light gray background */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+h2 {
+    margin-top: 0;
+    color: #555;
+}
+
+.assignment {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fafafa; /* Off-white background */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: left;
+}
+
+.assignment a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.assignment a:hover {
+    text-decoration: underline;
+}
+
+p {
+    color: #666;
+}
+
+.gary img {
+    width: 25%; /* Set the width to 50% of its original size */
+    height: auto; /* Maintain aspect ratio */
+}
